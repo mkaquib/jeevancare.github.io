@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jeevancare.github.io/static/css/main.e93bfb3d.chunk.css",
+    "main.js": "/jeevancare.github.io/static/js/main.3352abf4.chunk.js",
+    "main.js.map": "/jeevancare.github.io/static/js/main.3352abf4.chunk.js.map",
+    "runtime-main.js": "/jeevancare.github.io/static/js/runtime-main.c72d5e1c.js",
+    "runtime-main.js.map": "/jeevancare.github.io/static/js/runtime-main.c72d5e1c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/jeevancare.github.io/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.25e1c067.chunk.js": "/jeevancare.github.io/static/js/2.25e1c067.chunk.js",
+    "static/js/2.25e1c067.chunk.js.map": "/jeevancare.github.io/static/js/2.25e1c067.chunk.js.map",
+    "index.html": "/jeevancare.github.io/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/jeevancare.github.io/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.e93bfb3d.chunk.css.map": "/jeevancare.github.io/static/css/main.e93bfb3d.chunk.css.map",
+    "static/js/2.25e1c067.chunk.js.LICENSE.txt": "/jeevancare.github.io/static/js/2.25e1c067.chunk.js.LICENSE.txt",
+    "static/media/about_img.eed236d5.jpg": "/jeevancare.github.io/static/media/about_img.eed236d5.jpg",
+    "static/media/hospital_home.062c004b.jpg": "/jeevancare.github.io/static/media/hospital_home.062c004b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c72d5e1c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.25e1c067.chunk.js",
+    "static/css/main.e93bfb3d.chunk.css",
+    "static/js/main.3352abf4.chunk.js"
+  ]
+}
