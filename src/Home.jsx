@@ -8,7 +8,7 @@ export default function Home() {
         <>
 
        <Common
-        name="A Destination for Advancedcare Cares"
+        name="A Destination for Advancedcare Care"
         imgSrc={home_img}
         visit="/service"
         btnname="Get Started"
